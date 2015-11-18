@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded',draw,false);
 (function draw(){
 //function draw(){
 var hC=document.getElementById("c");

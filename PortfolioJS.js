@@ -20,4 +20,4 @@ hC.width=window.innerWidth;
 re();
 }
 //}
-}();
+};

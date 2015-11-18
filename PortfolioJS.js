@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded',draw,false);
-(function draw(){
+function draw(){
 //function draw(){
 var hC=document.getElementById("c");
         var con=hC.getContext("2d");
@@ -20,4 +20,4 @@ hC.width=window.innerWidth;
 re();
 }
 //}
-})();
+}();

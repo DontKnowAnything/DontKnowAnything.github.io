@@ -1,4 +1,4 @@
-(function (){
+(function draw(){
 //function draw(){
 var hC=document.getElementById("c");
         var con=hC.getContext("2d");

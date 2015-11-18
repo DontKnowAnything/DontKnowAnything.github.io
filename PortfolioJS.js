@@ -17,6 +17,7 @@ function z(){
         }
         function size(){
 hC.width=window.innerWidth;
+hC.height=window.innerHeight;
 re();
 }
 //}

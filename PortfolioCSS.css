@@ -24,11 +24,10 @@ body{
 }
 canvas{
     display: block;
-    /*overflow: auto;
+    //overflow: auto;
     //z-index: 3;
     //border: 2px solid;
-    //position: absolute;
+    position: absolute;
     //left: 0px;
     //top: 0px;
-*/
 }

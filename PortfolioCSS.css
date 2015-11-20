@@ -17,7 +17,7 @@ body{
 }
 #nav ul{
     list-style-type: none;
-    //position: relative;
+    /*position: relative;*/
 }
 #content{
     display: block;

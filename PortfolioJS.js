@@ -2,6 +2,8 @@ document.addEventListener('DOMContentLoaded',draw,false);
 function draw(){
 //function draw(){
 var hC=document.getElementById("c");
+hC.style.top="0px";
+hC.style.left="0px";
 hC.style.position="absolute";
         var con=hC.getContext("2d");
     z();

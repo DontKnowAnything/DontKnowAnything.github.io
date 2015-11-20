@@ -28,6 +28,6 @@ canvas{
     //z-index: 3;
     //border: 2px solid;
     position: absolute;
-    //left: 0px;
-    //top: 0px;
+    left: 0px;
+    top: 0px;
 }
